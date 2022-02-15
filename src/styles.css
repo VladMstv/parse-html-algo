@@ -1,0 +1,9 @@
+body {
+  font-family: sans-serif;
+}
+
+.abc {
+  &.ind {
+    background-color: black;
+  }
+}
